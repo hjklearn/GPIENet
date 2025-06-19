@@ -7,4 +7,4 @@
 [![Ask Me Anything!](https://img.shields.io/badge/Official%20-Yes-1abc9c.svg)](https://GitHub.com/hjklearn) 
 <br>
 - ## This repo contains an official PyTorch implementation of our paper: <br>
-- MambaRSDD: Depth-Assisted Mamba with Adapter Tuning for Rail Surface Defect Detection.
+- The code will be open-sourced after the acceptance of the paper.
