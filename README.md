@@ -1,4 +1,4 @@
-# Generic Prompt-Guided Instance-Aware Expert Network for Medical Image Segmentation
+# Self-Correction Prompt-Guided Expert Network for Medical Image Segmentation
 ![Powered by](https://img.shields.io/badge/Based_on-Pytorch-blue?logo=pytorch) 
 ![last commit](https://img.shields.io/github/last-commit/hjklearn/GPIENet)
 ![GitHub](https://img.shields.io/github/license/hjklearn/GPIENet?logo=license)
